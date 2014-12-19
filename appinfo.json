@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pdlw-getpebble-com@linkbeat.com",
+    "longName": "Biz Card",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/3qr-a.png",
+                "name": "IMAGE_3QR_ORG_A",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Biz Card",
+    "uuid": "77f4a4c2-5d2d-34de-f5f6-a342b48459ca",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
